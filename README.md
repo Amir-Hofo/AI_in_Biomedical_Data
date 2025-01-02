@@ -10,7 +10,7 @@ Additionally, you can refer to the table below to access related instructional v
 | Ensemble Classifier - ECG Arrhythmia Classification | [YouTube](https://www.youtube.com/watch?v=lz_19Cn5P1Y&list=PLqAYmXa0tYJc70GbpmYBIBcc2m-hiLbdj&index=19) | [Link](https://github.com/Amir-Hofo/AI_in_Biomedical_Data/tree/main/2_Ensemble%20Classifier%20-%20ECG%20Arrhythmia%20Classification) | ECG Arrhythmia classification in ECG signals using ensemble learning with SVM and Random Forest models. |
 | EEGNet - Motor imagery Classification     | [YouTube](https://www.youtube.com/watch?v=5gQ4YGV2KlA&list=PLqAYmXa0tYJc70GbpmYBIBcc2m-hiLbdj&index=32) | [Link](https://github.com/Amir-Hofo/AI_in_Biomedical_Data/tree/main/3_EEGNet%20-%20Motor%20imagery%20Classification) | Identification of five motor imagery tasks for hands, feet, and tongue using the convolutional model EEG-Net. |
    
-Papers used:  
+## Papers used
 | Title                                                                                      | DOI                                        |
 |--------------------------------------------------------------------------------------------|--------------------------------------------|
 | Ensemble classifier fostered detection of arrhythmia using ECG data                        | [10.1007/s11517-023-02839-6](https://doi.org/10.1007/s11517-023-02839-6) |
@@ -18,7 +18,7 @@ Papers used:
 | A large electroencephalographic motor imagery dataset for electroencephalographic brain computer interfaces | [10.1038/sdata.2018.211](https://doi.org/10.1038/sdata.2018.211)         |
 | EEGNet: A Compact Convolutional Neural Network for EEG-based Brain-Computer Interfaces     | [10.1088/1741-2552/aace8c](https://doi.org/10.1088/1741-2552/aace8c)     |
    
-Datasets used:   
+## Datasets used
 | Title                                | Link                                                              |
 |--------------------------------------|-------------------------------------------------------------------|
 | Diabetes                             | [scikit-learn](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_diabetes) |
